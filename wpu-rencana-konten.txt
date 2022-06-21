@@ -6,7 +6,7 @@ RENCANA KONTEN WPU
    ^ Vue
    ^ React
 - Strukrut Data Dasar
-- PHP Framnework
+- PHP Framneworks
   ^ Laravel
 - Interview
 - Vlogs
